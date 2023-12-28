@@ -189,7 +189,6 @@ C:\Users\jahmadm\Source\Repos\CodeTestJavidMir\CandidateCodeTest\bin\Debug\netco
 C:\Users\jahmadm\Source\Repos\CodeTestJavidMir\CandidateCodeTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\jahmadm\Source\Repos\CodeTestJavidMir\CandidateCodeTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\jahmadm\Source\Repos\CodeTestJavidMir\CandidateCodeTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\jahmadm\Source\Repos\CodeTestJavidMir\CandidateCodeTest\obj\Debug\netcoreapp3.1\CandidateCodeTest.csproj.AssemblyReference.cache
 C:\Users\jahmadm\Source\Repos\CodeTestJavidMir\CandidateCodeTest\obj\Debug\netcoreapp3.1\CandidateCodeTest.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jahmadm\Source\Repos\CodeTestJavidMir\CandidateCodeTest\obj\Debug\netcoreapp3.1\CandidateCodeTest.AssemblyInfoInputs.cache
 C:\Users\jahmadm\Source\Repos\CodeTestJavidMir\CandidateCodeTest\obj\Debug\netcoreapp3.1\CandidateCodeTest.AssemblyInfo.cs
